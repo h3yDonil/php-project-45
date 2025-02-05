@@ -1,0 +1,13 @@
+{
+    "name": "project/hexlet-project",
+    "description": "First hexlet project",
+    "authors": [
+        {
+            "name": "h3yDonil"
+        }
+    ],
+    "require": {},
+    "bin": [
+	"bin/brain-games"
+    ]
+}
