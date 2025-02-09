@@ -1,4 +1,4 @@
 install:
 	composer install
-brain-games:
-	./bin/brain-games
+even:
+	./bin/brain-even
