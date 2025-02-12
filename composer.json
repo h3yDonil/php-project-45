@@ -2,7 +2,9 @@
   "name": "project/hexlet-project",
   "autoload": {
     "files": [
-      "src/Even.php"
+      "src/games/even.php",
+      "src/games/calc.php",
+      "src/Engine.php"
     ]
   },
   "description": "First hexlet project",
@@ -15,7 +17,7 @@
     "wp-cli/php-cli-tools": "^0.12.1"
   },
   "bin": [
-    "bin/brain-games",
+    "bin/brain-calc",
     "bin/brain-even"
   ],
   "require-dev": {
