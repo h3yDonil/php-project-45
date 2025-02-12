@@ -1,5 +1,5 @@
 {
-  "name": "project/hexlet-project",
+  "name": "hexlet\code",
   "autoload": {
     "files": [
       "src/games/even.php",
